@@ -4,3 +4,20 @@ h1
     font-style: italic;
     text-align: center;
 }
+
+mark
+{
+    background-color:rgb(252, 174, 73);
+    color:grey;
+}
+
+body
+{
+    text-align: center;
+}
+li
+{
+    color: hotpink;
+    border: dotted;
+    border-color: black;
+}
